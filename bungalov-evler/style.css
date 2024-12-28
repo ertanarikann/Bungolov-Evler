@@ -1,0 +1,75 @@
+#btntop{
+    display: none;
+    position: fixed;
+    right: 50px;
+    z-index: +1;
+    bottom: 30px;
+    width: 3rem;
+    height: 3rem;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: rgb(89, 187, 78);
+    color: white;
+}
+
+#btntop:hover{
+
+    background-color: white;
+    color:  rgb(89, 187, 78);
+    transition: all 0.2s ease-in;
+}
+
+
+.navbar{
+    background-color: #212529;
+}
+
+.herosection{
+    background-color:#212529 ;
+}
+
+
+
+
+.yazili_kisim_img{
+    border-radius: 50%;
+}
+
+
+.yazili_kisim_yazi{
+    font-size: 1.25rem;
+}
+
+.copyright{
+    background-color: #212529;
+    color: white;
+}
+
+.team_photo{
+    border-radius: 100%;
+}
+
+
+.our_team{
+    background-color:#f7f9fa ;
+}
+
+.form-content{
+    background-color: #f7f9fa ; 
+}
+
+
+.fa-envelope{
+    font-size: 3rem;
+}
+
+
+.ikonlar{
+    font-size: 3rem;
+    color: #1a8754;
+}
+
+
+.deneme{
+    max-width: 550px;
+}
